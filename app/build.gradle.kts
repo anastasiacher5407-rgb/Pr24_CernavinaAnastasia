@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.sevenpractice"
+    namespace = "com.example.Pr24_CernavinaAnastasia"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.sevenpractice"
+        applicationId = "com.example.Pr24_CernavinaAnastasia"
         minSdk = 30
         targetSdk = 36
         versionCode = 1

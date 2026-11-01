@@ -1,4 +1,4 @@
-package com.example.sevenpractice;
+package com.example.Pr24_CernavinaAnastasia;
 
 import android.os.Bundle;
 
